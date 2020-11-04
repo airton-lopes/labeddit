@@ -24,6 +24,10 @@
 
 > https://labeddit-airton.surge.sh/
 
+## Se você quiser testar sem se cadastrar, acesse o link acima, e faça login com os seguintes dados:
+e-mail: airton@gmail.com
+senha: a1
+
 ## Pré-requisitos :warning:
 
 - [Node](https://nodejs.org/en/download/)
